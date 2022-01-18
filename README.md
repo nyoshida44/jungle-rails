@@ -1,4 +1,4 @@
-# Jungle
+# Jungle by Lighthouse Labs and Nicholas Yoshida
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
@@ -31,3 +31,10 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+!["Home"]()
+!["Products of a Specific Category"]()
+!["Details of a Product"]()
+!["In the Shopping Cart"]()
