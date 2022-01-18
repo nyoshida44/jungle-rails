@@ -34,7 +34,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-!["Home"]()
-!["Products of a Specific Category"]()
-!["Details of a Product"]()
-!["In the Shopping Cart"]()
+!["Home"](https://github.com/nyoshida44/jungle-rails/blob/master/docs/home.png)
+!["Products of a Specific Category"](https://github.com/nyoshida44/jungle-rails/blob/master/docs/category.png)
+!["Details of a Product"](https://github.com/nyoshida44/jungle-rails/blob/master/docs/details.png)
+!["In the Shopping Cart"](https://github.com/nyoshida44/jungle-rails/blob/master/docs/cart.png)
